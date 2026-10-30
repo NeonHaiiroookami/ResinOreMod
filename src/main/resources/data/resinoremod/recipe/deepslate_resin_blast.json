@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "ingredient": {
+    "item": "resinoremod:deepslate_resin_ore"
+  },
+  "result": {
+    "id": "minecraft:resin_clump"
+  },
+  "experience": 0.5,
+  "cookingtime": 105
+}

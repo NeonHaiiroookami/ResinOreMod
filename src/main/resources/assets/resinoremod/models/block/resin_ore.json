@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "resinoremod:block/resin_ore"
+  }
+}
