@@ -12,6 +12,15 @@
           "tag": "stone_ore_replaceables",
           "predicate_type": "minecraft:tag_match"
         }
+      },
+	  {
+        "state": {
+          "Name": "resinoremod:deepslate_resin_ore"
+        },
+        "target": {
+          "tag": "deepslate_ore_replaceables",
+          "predicate_type": "minecraft:tag_match"
+        }
       }
     ]
   }
