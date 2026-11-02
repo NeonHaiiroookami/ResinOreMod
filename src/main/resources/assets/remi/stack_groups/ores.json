@@ -1,6 +1,7 @@
 {
   "id": "remi:ores",
   "type": "remi:group",
+  "priority": 1000,
   "contents": [
     "resinoremod:resin_ore",
     "resinoremod:deepslate_resin_ore"
